@@ -1,0 +1,9 @@
+Car - Reg: Ba 2 Pa 0321, Color: Graphite, Seats: 4
+Bike - Reg: Ba 3 Pa 4021, Color: Blue, Engine: 125cc
+Car - Reg: Ba 6 Pa 3698, Color: White, Seats: 4
+Car - Reg: Ba 2 Pa 6001, Color: Graphite, Seats: 4
+Bike - Reg: Ba 2 Pa 0167, Color: Green, Engine: 2cc
+Car - Reg: Ba 2 Pa 1396, Color: Graphite, Seats: 3
+Car - Reg: Ba 2 Pa 2090, Color: Graphite, Seats: 4
+Car - Reg: Ba 2 Pa 3091, Color: Graphite', Seats: 4
+Bike - Reg: Ba 3 Pa 5001, Color: Black, Engine: 125cc
